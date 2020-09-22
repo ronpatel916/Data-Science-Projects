@@ -5,7 +5,7 @@ These are projects that I've worked on through the DataQuest platform. I am curr
 ## Contents
 
 * Data Analysis and Visualization
-   * [Profitable App Profiles for the App Store and Google Play Markets](http://www.google.fr/ "Named link title") - Use App Store data to find mobile app profiles that are most profitable to build
+   * [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/ronpatel916/crunchy-PB/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb) - Use App Store data to find mobile app profiles that are most profitable to build
    * [Exploring Hacker News Posts]() - Use Hacker News forum post dataset to analyze post popularilty
    * [Exploring Ebay Car Sales Data]() - Cleaning and doing basic analysis on data from the German eBay website using pandas and numpy
    * [Visualizing Earnings Based On College Majors]() - Use matplotlib and pandas to visualize college majors earnings
