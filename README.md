@@ -25,6 +25,7 @@ These are projects that I've worked on through the DataQuest platform. I am curr
    * [Investigating Fandango Movie Ratings](https://github.com/ronpatel916/crunchy-PB/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb) - Utilize the concepts of sampling, variables, scales of measurement, and frequency distributions to analyze movie ratings on the Fandango website.
    * [Finding the Best Markets to Advertise In](https://github.com/ronpatel916/crunchy-PB/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) - Using summary statistics and outliers to explore a survey of new coders and identify markets for a fictitious coding education website to advertise in.
    * [Mobile App for Lottery Addiction](https://github.com/ronpatel916/crunchy-PB/blob/master/Mobile%20App%20for%20Lottery%20Addiction.ipynb) - Develop the app logic for calculating the chances of winning a national lottery game, using probability concepts to help gamblers understand their low chances of winning.
+   * [Winning Jeopardy](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Winning%20Jeopardy/Winning%20Jeopardy.ipynb) - Use hypothesis testing to gain an edge to win the game of Jeopardy
 
 * Machine Learning
 
