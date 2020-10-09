@@ -4,6 +4,11 @@ These are projects that I've worked on through the DataQuest platform. I am curr
 
 ## Contents
 
+
+* Machine Learning
+   * [Predicting Car Prices](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb) - Use k-nearest neighbors algorithm on a dataset of vehicle features to predict market prices
+
+
 * Data Analysis and Visualization
    * [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/ronpatel916/crunchy-PB/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb) - Use App Store data to find mobile app profiles that are most profitable to build
    * [Hacker News Post Popularity Analysis](https://github.com/ronpatel916/crunchy-PB/blob/master/Hacker%20News%20Post%20Popularity%20Analysis.ipynb) - Use Hacker News forum post dataset to analyze post popularilty
@@ -26,7 +31,3 @@ These are projects that I've worked on through the DataQuest platform. I am curr
    * [Finding the Best Markets to Advertise In](https://github.com/ronpatel916/crunchy-PB/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) - Using summary statistics and outliers to explore a survey of new coders and identify markets for a fictitious coding education website to advertise in.
    * [Mobile App for Lottery Addiction](https://github.com/ronpatel916/crunchy-PB/blob/master/Mobile%20App%20for%20Lottery%20Addiction.ipynb) - Develop the app logic for calculating the chances of winning a national lottery game, using probability concepts to help gamblers understand their low chances of winning.
    * [Winning Jeopardy](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Winning%20Jeopardy/Winning%20Jeopardy.ipynb) - Use hypothesis testing to gain an edge to win the game of Jeopardy
-
-* Machine Learning
-
-
