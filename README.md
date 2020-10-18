@@ -7,6 +7,7 @@ These are projects that I've worked on through the DataQuest platform. I am curr
 
 * Machine Learning
    * [Predicting Car Prices](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb) - Use k-nearest neighbors algorithm on a dataset of vehicle features to predict market prices
+   * [Predicting House Sale Prices](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Predicting%20House%20Sale%20Prices/Predicting%20House%20Sale%20Prices.ipynb) - Use Linear Regression model and Feature Engineering and Selection on a dataset of house sales to predict market prices
 
 
 * Data Analysis and Visualization
