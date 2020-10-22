@@ -6,6 +6,7 @@ These are projects that I've worked on through the DataQuest platform. I am curr
 
 
 * Machine Learning
+   * [Building a Handwritten Digits Classifier](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Building%20A%20Handwritten%20Digits%20Classifier/Building%20A%20Handwritten%20Digits%20Classifier.ipynb) - Utilize Neural Networks and other machine learning models to build a tool that can classify digits derived from low resolution images of handwritten digits.
    * [Predicting Bike Rentals](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Predicting%20Bike%20Rentals/Predicting%20Bike%20Rentals.ipynb) - Utilize Ensemble Techniques such as Random Forests to build a model to predict communal bike share rentals in Washington D.C.
    * [Predicting Car Prices](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb) - Use k-nearest neighbors algorithm on a dataset of vehicle features to predict market prices
    * [Predicting House Sale Prices](https://github.com/ronpatel916/Data-Science-Projects/blob/master/Predicting%20House%20Sale%20Prices/Predicting%20House%20Sale%20Prices.ipynb) - Use Linear Regression model and Feature Engineering and Selection on a dataset of house sales to predict market prices
